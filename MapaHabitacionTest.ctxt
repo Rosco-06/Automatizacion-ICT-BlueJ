@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MapaHabitacionTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ El\ m\u00E9todo\ setUp\ se\ ejecuta\ siempre\ antes\ de\ cada\ prueba.\r\n
+comment2.params=
+comment2.target=void\ testInicializacionMatriz()
+comment2.text=\r\n\ Prueba\ 1\:\ Verificar\ que\ el\ constructor\ crea\ bien\ la\ matriz.\r\n
+comment3.params=
+comment3.target=void\ testModificarYLimpiarMapa()
+comment3.text=\r\n\ Prueba\ 2\:\ Verificar\ la\ modificaci\u00F3n\ de\ celdas\ y\ el\ borrado\ del\ mapa.\r\n
+numComments=4

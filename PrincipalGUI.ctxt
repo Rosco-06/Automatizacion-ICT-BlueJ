@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PrincipalGUI
+comment1.params=
+comment1.target=PrincipalGUI()
+comment2.params=
+comment2.target=void\ cargarConfiguracionInicial()
+comment3.params=
+comment3.target=void\ limpiarMapa()
+comment4.params=
+comment4.target=void\ actualizarCuadriculaGUI()
+comment5.params=actual
+comment5.target=TipoZona\ ciclarZona(TipoZona)
+comment6.params=btn\ zona
+comment6.target=void\ actualizarColorBoton(javax.swing.JButton,\ TipoZona)
+comment7.params=
+comment7.target=void\ iniciarCalculoRuta()
+comment8.params=ruta
+comment8.target=void\ almacenarTrazado(RutaCalculada)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

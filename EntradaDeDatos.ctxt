@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EntradaDeDatos
+comment1.params=rutaArchivo
+comment1.target=MapaHabitacion\ cargarConfiguracionInicial(java.lang.String)
+numComments=2

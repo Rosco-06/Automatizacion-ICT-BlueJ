@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EnrutadorAStarTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Preparamos\ un\ enrutador\ limpio\ y\ un\ mapa\ de\ 5x5\ antes\ de\ cada\ test.\r\n
+comment2.params=
+comment2.target=void\ testCalculoHeuristicaDistancia()
+comment2.text=\r\n\ Prueba\ 1\:\ Verifica\ la\ matem\u00E1tica\ del\ algoritmo\ calculando\ la\ distancia\ de\ Manhattan.\r\n
+comment3.params=
+comment3.target=void\ testRutaViablePorParedes()
+comment3.text=\r\n\ Prueba\ 2\:\ Simula\ un\ peque\u00F1o\ mapa,\ traza\ unas\ paredes\ y\ verifica\ si\ el\ algoritmo\r\n\ encuentra\ el\ camino\ correcto\ por\ ellas.\r\n
+numComments=4

@@ -1,0 +1,37 @@
+Distancia Total (pasos): 32.0
+Coste Acumulado: 32
+Es Viable: true
+Camino (X, Y):
+(2, 2) -> Tipo: TOMA
+(3, 2) -> Tipo: PARED
+(4, 2) -> Tipo: PARED
+(5, 2) -> Tipo: PARED
+(6, 2) -> Tipo: PARED
+(7, 2) -> Tipo: PARED
+(8, 2) -> Tipo: PARED
+(9, 2) -> Tipo: PARED
+(10, 2) -> Tipo: PARED
+(11, 2) -> Tipo: PARED
+(12, 2) -> Tipo: PARED
+(13, 2) -> Tipo: PARED
+(14, 2) -> Tipo: PARED
+(15, 2) -> Tipo: PARED
+(16, 2) -> Tipo: PARED
+(17, 2) -> Tipo: PARED
+(18, 2) -> Tipo: PARED
+(18, 3) -> Tipo: PARED
+(18, 4) -> Tipo: PARED
+(18, 5) -> Tipo: PARED
+(18, 6) -> Tipo: PARED
+(18, 7) -> Tipo: PARED
+(18, 8) -> Tipo: PARED
+(18, 9) -> Tipo: PARED
+(18, 10) -> Tipo: PARED
+(18, 11) -> Tipo: PARED
+(18, 12) -> Tipo: PARED
+(18, 13) -> Tipo: PARED
+(18, 14) -> Tipo: PARED
+(18, 15) -> Tipo: PARED
+(18, 16) -> Tipo: PARED
+(18, 17) -> Tipo: PARED
+(18, 18) -> Tipo: TOMA

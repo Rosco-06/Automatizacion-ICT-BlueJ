@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MapaCasa
+comment1.params=
+comment1.target=MapaCasa()
+comment2.params=
+comment2.target=java.util.List\ getHabitaciones()
+comment3.params=habitaciones
+comment3.target=void\ setHabitaciones(java.util.List)
+comment4.params=
+comment4.target=java.util.List\ getRutasCalculadas()
+comment5.params=rutasCalculadas
+comment5.target=void\ setRutasCalculadas(java.util.List)
+comment6.params=habitacion
+comment6.target=void\ agregarHabitacion(models.MapaHabitacion)
+comment7.params=ruta
+comment7.target=void\ agregarRuta(models.RutaCalculada)
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RutaCalculada
+comment1.params=
+comment1.target=RutaCalculada()
+comment2.params=
+comment2.target=double\ getDistanciaTotal()
+comment3.params=distanciaTotal
+comment3.target=void\ setDistanciaTotal(double)
+comment4.params=
+comment4.target=int\ getCosteAcumulado()
+comment5.params=costeAcumulado
+comment5.target=void\ setCosteAcumulado(int)
+comment6.params=
+comment6.target=boolean\ isEsViable()
+comment7.params=esViable
+comment7.target=void\ setEsViable(boolean)
+comment8.params=
+comment8.target=java.util.List\ getCamino()
+comment9.params=camino
+comment9.target=void\ setCamino(java.util.List)
+numComments=10

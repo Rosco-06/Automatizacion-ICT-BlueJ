@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EnrutadorAStar
+comment1.params=
+comment1.target=EnrutadorAStar()
+comment2.params=mapa\ inicio\ fin
+comment2.target=RutaCalculada\ calcularRuta(MapaHabitacion,\ Celda,\ Celda)
+comment3.params=a\ b
+comment3.target=int\ calcularHeuristicaDistancia(Celda,\ Celda)
+comment4.params=nodoFinal
+comment4.target=RutaCalculada\ construirRuta(EnrutadorAStar.Nodo)
+numComments=5

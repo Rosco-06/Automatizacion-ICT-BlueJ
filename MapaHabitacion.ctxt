@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=MapaHabitacion
+comment1.params=identificador\ filas\ columnas
+comment1.target=MapaHabitacion(java.lang.String,\ int,\ int)
+comment10.params=cuadricula
+comment10.target=void\ setCuadricula(models.Celda[][])
+comment11.params=f\ c
+comment11.target=models.Celda\ getCelda(int,\ int)
+comment2.params=
+comment2.target=void\ limpiarMapa()
+comment3.params=
+comment3.target=java.lang.String\ getIdentificador()
+comment4.params=identificador
+comment4.target=void\ setIdentificador(java.lang.String)
+comment5.params=
+comment5.target=int\ getFilas()
+comment6.params=filas
+comment6.target=void\ setFilas(int)
+comment7.params=
+comment7.target=int\ getColumnas()
+comment8.params=columnas
+comment8.target=void\ setColumnas(int)
+comment9.params=
+comment9.target=models.Celda[][]\ getCuadricula()
+numComments=12

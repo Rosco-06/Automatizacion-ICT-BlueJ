@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MapaCasaTest
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Preparamos\ el\ entorno\ antes\ de\ cada\ test\ creando\ una\ casa\ nueva\ y\ vac\u00EDa.\r\n
+comment2.params=
+comment2.target=void\ testInicializacionListas()
+comment2.text=\r\n\ Prueba\ 1\:\ Verificar\ que\ las\ listas\ se\ inicializan\ correctamente\ \r\n\ (esto\ demuestra\ que\ evitas\ el\ temido\ NullPointerException).\r\n
+comment3.params=
+comment3.target=void\ testAgregarHabitacion()
+comment3.text=\r\n\ Prueba\ 2\:\ Verificar\ que\ podemos\ agregar\ habitaciones\ a\ la\ casa\ correctamente.\r\n
+comment4.params=
+comment4.target=void\ testAgregarRuta()
+comment4.text=\r\n\ Prueba\ 3\:\ Verificar\ que\ el\ historial\ de\ rutas\ se\ guarda\ correctamente.\r\n
+numComments=5
